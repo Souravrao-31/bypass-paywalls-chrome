@@ -21,6 +21,7 @@ const defaultSites = {
   'Denver Post': 'denverpost.com',
   'De Tijd': 'tijd.be',
   'de Volkskrant': 'volkskrant.nl',
+  'DEV Community': 'dev.to',
   'Diario Financiero': 'df.cl',
   'Dynamed Plus': 'dynamed.com',
   'Eindhovens Dagblad': 'ed.nl',
